@@ -104,4 +104,7 @@ return {
   ["WhoIsSethDaniel/mason-tool-installer.nvim"] = {
     after = "mason.nvim",
   },
+
+  -- nvim jdtls
+  -- ["mfussenegger/nvim-jdtls"] = {},
 }

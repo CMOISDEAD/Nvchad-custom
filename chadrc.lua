@@ -7,7 +7,7 @@ local M = {}
 
 M.ui = {
   theme_toggle = { "gruvchad", "gruvbox_light" },
-  theme = "gruvchad",
+  theme = "gruvbox",
 }
 
 M.plugins = {

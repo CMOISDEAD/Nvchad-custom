@@ -11,6 +11,10 @@ M.disable = {
     ["<leader>ra"] = { "" },
     ["<leader>rn"] = { "" },
     ["<leader>v"] = { "" },
+    ["<leader>wa"] = { "" },
+    ["<leader>wk"] = { "" },
+    ["<leader>wK"] = { "" },
+    ["<leader>wl"] = { "" },
   },
 }
 
